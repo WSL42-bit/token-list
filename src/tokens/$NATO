@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "HpmRerYwv4qmxckwTyrvCaJ6MArDCjYoTPnV9Ezm9PzW",
+  "symbol": "NATO",
+  "name": "NATO Token",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/jouwgithubaccount/token-list/main/logos/nato.png",
+  "tags": ["meme", "community"]
+}
